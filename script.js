@@ -27,7 +27,7 @@ function asyncFunction() {
 //     console.log("Sucesso:", response);
 //   })
 //   .catch((error) => {
-//     console.log("Error:", error);
+//     console.log("Error:", error);S
 //   })
 //   .finally(() => {
 //     console.log("Fim da execução");
